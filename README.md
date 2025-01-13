@@ -1,7 +1,4 @@
-r
-Here’s a professional and visually appealing content structure for your `README.md`. It showcases your work and encourages others to contribute effectively. 
 
----
 
 ## **Tic-Tac-Toe: A Python-based CLI Game**
 
